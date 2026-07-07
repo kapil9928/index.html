@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+  content="width=device-width, initial-scale=1.0">
+    <title>My Personal Details</title>
+</head>
+<body>
+
+   <h1>My Personal Details</h1>
+
+   <h2>Name; Kapil Yadav</h2.
+
+   <p>
+     Hello! My name is Kapil Yadav. I am a BCA student and I enjoy learning web development and programming.
+      </p>
+
+
+      <p>
+         My career goal is to become a successful Software Developer and build useful websites and applications. 
+          </p>
+
+    <img src="profile.jpg" alt='My Photo"
+ width="200"
+      
+   <p>
+     Visit my favorite website: 
+     <a href="https://www.google.com"
+target="_blank">Google</a>
+     <p>
+
+     <h3>Ordered List (My Goals)</h3
+     <ol>
+        <li>Complete BCA</li>
+        <li>Learn Full Stack Development</li>
+        <li>Get a Good Job</li>
+      </ol>
+ 
+    <h3>Unordered List (My Hobbies)</h3>
+    <ul>
+        <li>Running</li>
+        <li>Reading</li>
+        <li>Coding</li>
+     </ul>
+
+</body>
+</html>
+        
+
+        
